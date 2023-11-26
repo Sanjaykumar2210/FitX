@@ -1,4 +1,4 @@
-# RaDiont Fitness Website 💪🏽
+# FitX Website 💪🏽
 
 ## Table of Contents
 * [General Description](#general-info)
