@@ -29,10 +29,8 @@ Personal Trainer should be able to:
 ## Technologies
 
 - HTML5
-- CSS3
-- Sass
+- CSS
 - JavaScript 
-- PHP
 - MySQL
 
 ## Screenshots 
